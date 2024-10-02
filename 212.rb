@@ -12,5 +12,7 @@ puts z
 # then explain what the error message means and what would need to change to fix it.
 x = 10
 y = x
-puts x + y
+print x + y
 
+
+# line 2 and 3 code are in wrong positions. 
