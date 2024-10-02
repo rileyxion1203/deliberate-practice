@@ -18,12 +18,12 @@ green = red * green # 11
 # 3: red is 3, blue is 8, green is 11
 # 4: blue is 8, green is 11, red is 19
 # 5: blue is 8, green is 0
-# 6: red is 19, green is 0, blue is 3*0 = 0
+# 6: red is 19, green is 0, blue is 19*0 = 0
 # 7: green is 0, red is 2
 # 8: red is 2, blue is 4
 # 9: red is 2, blue is 4, green is 8
 # 10: blue is 4, green is 8, red is 4
-# 11: green is 8, red is 4, green is 32
+# 11: green is 8, red is 4, green is 32, blue is 4
 
 puts red, green, blue
 

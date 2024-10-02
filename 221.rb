@@ -20,4 +20,5 @@ pp pairs_hash
 # If so, describe the next skill you will start to practice tomorrow.
 # If not, describe the part you got stuck on that requires more practice.
 
-
+# I didn't solve it easily. I got stuck because I am unfamiliar with the concept"array of arrays", 
+# and I couldn't comprehend the statement "pairs_hash[key] = value" at the first place.
