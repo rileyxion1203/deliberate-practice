@@ -5,8 +5,6 @@ while number<5
     number = number + 1
 end
 
-
-
 # 1.Write code that prints "Hello World"
 puts "Hello World"
 
