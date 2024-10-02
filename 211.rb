@@ -14,4 +14,4 @@ end
 # If so, describe the next skill you will start to practice tomorrow.
 # If not, describe the part you got stuck on that requires more practice.
 
-# I will practice array tomorrow. 
+puts "I will practice array tomorrow."
