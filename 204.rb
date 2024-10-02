@@ -5,4 +5,4 @@
 # Change the sharing settings of the document to "Anyone with the link can view" 
 # Copy the link to your Career Inventory Google document and paste it below.
 
-puts "https://docs.google.com/document/d/1SugRHO0EYz5uPGypX8w8EyijjLKDJQik9jv52tvym0Y/edit#heading=h.gyzkhjev28mz"
+print "https://docs.google.com/document/d/1SugRHO0EYz5uPGypX8w8EyijjLKDJQik9jv52tvym0Y/edit#heading=h.gyzkhjev28mz"
